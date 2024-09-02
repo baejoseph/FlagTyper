@@ -181,7 +181,7 @@
     },
     "bo": {
         "alpha2": "bo",
-        "en": "Bolivia, Plurinational State of",
+        "en": "Bolivia",
         "ja": "ボリビア多民族国",
         "ko": "볼리비아",
         "zh": "玻利维亚",
@@ -352,7 +352,7 @@
     },
     "cd": {
         "alpha2": "cd",
-        "en": "Congo, Democratic Republic of the",
+        "en": "Communist Congo",
         "ja": "コンゴ民主共和国",
         "ko": "콩고 민주 공화국",
         "zh": "刚果民主共和国",
@@ -694,7 +694,7 @@
     },
     "ir": {
         "alpha2": "ir",
-        "en": "Iran, Islamic Republic of",
+        "en": "Iran",
         "ja": "イラン・イスラム共和国",
         "ko": "이란",
         "zh": "伊朗",
@@ -793,16 +793,16 @@
     },
     "kp": {
         "alpha2": "kp",
-        "en": "Korea, Democratic People's Republic of",
+        "en": "North Korea",
         "ja": "朝鮮民主主義人民共和国",
-        "ko": "조선민주주의인민공화국",
+        "ko": "북한",
         "zh": "朝鲜",
         "zh-tw": "北韓",
         "continent": "Asia"
     },
     "kr": {
         "alpha2": "kr",
-        "en": "Korea, Republic of",
+        "en": "South Korea",
         "ja": "大韓民国",
         "ko": "대한민국",
         "zh": "韩国",
@@ -829,7 +829,7 @@
     },
     "la": {
         "alpha2": "la",
-        "en": "Lao People's Democratic Republic",
+        "en": "Laos",
         "ja": "ラオス人民民主共和国",
         "ko": "라오스",
         "zh": "老挝",
@@ -1009,7 +1009,7 @@
     },
     "fm": {
         "alpha2": "fm",
-        "en": "Micronesia, Federated States of",
+        "en": "Micronesia",
         "ja": "ミクロネシア連邦",
         "ko": "미크로네시아 연방",
         "zh": "密克罗尼西亚联邦",
@@ -1027,7 +1027,7 @@
     },
     "md": {
         "alpha2": "md",
-        "en": "Moldova, Republic of",
+        "en": "Moldova",
         "ja": "モルドバ共和国",
         "ko": "몰도바",
         "zh": "摩尔多瓦",
@@ -1270,8 +1270,8 @@
     },
     "ru": {
         "alpha2": "ru",
-        "en": "Russian Federation",
-        "ja": "ロシア連邦",
+        "en": "Russia",
+        "ja": "ロシア",
         "ko": "러시아",
         "zh": "俄罗斯",
         "zh-tw": "俄羅斯",
@@ -1531,7 +1531,7 @@
     },
     "tz": {
         "alpha2": "tz",
-        "en": "Tanzania, United Republic of",
+        "en": "Tanzania",
         "ja": "タンザニア",
         "ko": "탄자니아",
         "zh": "坦桑尼亚",
@@ -1648,7 +1648,7 @@
     },
     "gb": {
         "alpha2": "gb",
-        "en": "United Kingdom of Great Britain and Northern Ireland",
+        "en": "United Kingdom",
         "ja": "イギリス",
         "ko": "영국",
         "zh": "英国",
@@ -1657,8 +1657,8 @@
     },
     "us": {
         "alpha2": "us",
-        "en": "United States of America",
-        "ja": "アメリカ合衆国",
+        "en": "USA",
+        "ja": "アメリカ",
         "ko": "미국",
         "zh": "美国",
         "zh-tw": "美國",
@@ -1693,8 +1693,8 @@
     },
     "ve": {
         "alpha2": "ve",
-        "en": "Venezuela, Bolivarian Republic of",
-        "ja": "ベネズエラ・ボリバル共和国",
+        "en": "Venezuela",
+        "ja": "ベネズエラ",
         "ko": "베네수엘라",
         "zh": "委内瑞拉",
         "zh-tw": "委內瑞拉",

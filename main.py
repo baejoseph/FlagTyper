@@ -23,13 +23,13 @@ with open(resource_path("data/flags.json"), "r", encoding="utf-8") as file:
     data = json.load(file)
 
 # Load Font
-font = pygame.font.Font(resource_path("assets/font2.ttc"), 30)
-korean_font = pygame.font.Font(resource_path("assets/font1.otf"), 92)
-mini_font = pygame.font.Font(resource_path("assets/font3.ttf"), 20)
+font = pygame.font.Font(resource_path("assets/Microsoft Sans Serif.ttf"), 30)
+korean_font = pygame.font.Font(resource_path("assets/Microsoft Sans Serif.ttf"), 92)
+mini_font = pygame.font.Font(resource_path("assets/Microsoft Sans Serif.ttf"), 20)
 
 # Setup screen
 screen = pygame.display.set_mode((SCREEN_WIDTH, SCREEN_HEIGHT))
-pygame.display.set_caption("Hanja Typing")
+pygame.display.set_caption("Flag Typer")
 
 # Clock
 clock = pygame.time.Clock()
